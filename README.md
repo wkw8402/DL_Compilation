@@ -73,7 +73,7 @@ $$
     - **Adam: RMSProp + Momentum**
 - Back Propagation
 
-![Untitled](Deep%20Learning%20fc49624085554401ab6c91f81f2aa831/Untitled.png)
+![Untitled](/Untitled.png)
 
 - Update weights closer last layer first.
 - $z_1 = input * w_1, a_1 = sigmoid(z_1)$
