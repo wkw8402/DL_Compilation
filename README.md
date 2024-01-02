@@ -1,13 +1,8 @@
 # 🤖 Deep Learning
 
-<aside>
-💡
-
-</aside>
-
 ### Date: May 19, 2023
 
-### Title: Deep Learning Intro
+### 💡Title: Deep Learning Intro
 
 - Deep learning is machine learning using neural network.
 - Deep learning does not require domain knowledge.
@@ -110,7 +105,7 @@ $$
 \frac{\delta E}{\delta a_3} = \frac{1}{2}(2a_3 - 2y_1) = a_3 - y_1
 $$
 
-### Convolution layer:
+### 📌 Convolution layer:
 
 Feature extraction: make 20 duplicates, each having image's different important features
 deep learning based on feature extraction
