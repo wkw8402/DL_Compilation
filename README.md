@@ -5,7 +5,7 @@
 
 </aside>
 
-### Date: May 5, 2019
+### Date: May 19, 2023
 
 ### Title: Deep Learning Intro
 
