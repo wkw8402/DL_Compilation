@@ -126,8 +126,3 @@ Input image -> Filters -> Convolutional layer -> pooling -> Flattening -> Dense 
 
 pooling layer(down sampling):
 max pooling summarize areas with max values
-
-<aside>
-📌 Summary**:**
-
-</aside>
