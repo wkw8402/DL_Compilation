@@ -1,7 +1,5 @@
 # 🤖 Deep Learning
 
-### Date: May 19, 2023
-
 ### 💡Title: Deep Learning Intro
 
 - Deep learning is machine learning using neural network.
